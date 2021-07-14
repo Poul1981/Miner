@@ -1,0 +1,9 @@
+D:\С# Progekts\Miner\Miner\bin\Debug\Miner.exe.config
+D:\С# Progekts\Miner\Miner\bin\Debug\Miner.exe
+D:\С# Progekts\Miner\Miner\bin\Debug\Miner.pdb
+D:\С# Progekts\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+D:\С# Progekts\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+D:\С# Progekts\Miner\Miner\obj\Debug\Miner.exe
+D:\С# Progekts\Miner\Miner\obj\Debug\Miner.pdb
+D:\С# Progekts\Miner\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+D:\С# Progekts\Miner\Miner\obj\Debug\Miner.InputPanel.resources
